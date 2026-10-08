@@ -1,2 +1,1 @@
-link chạy :https://midu14.github.io/cr
-/
+link chạy :https://midu14.github.io/cr/
